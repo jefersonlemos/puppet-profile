@@ -1,0 +1,15 @@
+{
+  "name": "jeferson-profile",
+  "version": "0.1.0",
+  "author": "jeferson",
+  "summary": "This is a profile module",
+  "license": "Apache-2.0",
+  "source": "git@github.com:jefersonlemos/puppet-profile.git",
+  "project_page": "https://github.com/jefersonlemos/puppet-profile.git",
+  "issues_url": "https://github.com/jefersonlemos/puppet-profile/issue",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
